@@ -1,6 +1,6 @@
 import datetime
 import time
-
+dfdfddffdf
 class Client:
     nom = ""
     cognoms=""
